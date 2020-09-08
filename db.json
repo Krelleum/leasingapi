@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "vehicles": [
     {
       "id": 1,
-      "title": "hello"
+      "manufacturer": "Komatsu",
+      "model": "Xb-2000",
+      "year": "2002 - 2006"
+    },
+    {
+      "id": 2,
+      "manufacturer": "Komatsu",
+      "model": "Xb-3000",
+      "year": "2006 - 20012"
+    },
+    {
+      "id": 3,
+      "manufacturer": "Komatsu",
+      "model": "Xb-4000",
+      "year": "2012 - 2020"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
